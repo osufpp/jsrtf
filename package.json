@@ -1,5 +1,5 @@
 {
-  "name": "@osufpp/jsrtf",
+  "name": "jsrtf",
   "version": "0.0.4",
   "description": "Assists with creating rich text documents.",
   "main": "lib/index.js",
